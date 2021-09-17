@@ -1,7 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap");
 * {
-  font-family: Lato;
+  font-family: "Lato", sans-serif;
   font-style: normal;
 }
+
 a {
   color: #00b87c;
   text-decoration: none;
